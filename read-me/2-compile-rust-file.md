@@ -1,3 +1,5 @@
+[Home](https://github.com/kinite-gp/learn_rust)
+
 ### Compile **Rust** file (.rs)
 
 - If the name of the file is `main.rc`, we have:

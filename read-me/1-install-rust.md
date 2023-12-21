@@ -1,3 +1,5 @@
+[Home](https://github.com/kinite-gp/learn_rust)
+
 ### install **Rust**
 
 <hr>
